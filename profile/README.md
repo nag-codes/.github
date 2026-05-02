@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/landing.png" alt="nag-codes landing" width="100%" />
+  <img src="./assets/landing.png" width="100%" />
 </p>
 
 ---
@@ -8,10 +8,8 @@
   <a href="https://github.com/heyNag">👤 @heyNag</a>
   &nbsp;•&nbsp;
   <a href="https://github.com/nag-codes?tab=repositories">📦 Repositories</a>
-  &nbsp;•&nbsp;
-  <a href="https://github.com/nag-codes">🏢 nag-codes</a>
 </p>
 
 <p align="center">
-  Building simple, intelligent developer tools.
+  A space for building and refining ideas
 </p>
