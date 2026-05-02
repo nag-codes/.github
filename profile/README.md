@@ -1,3 +1,1 @@
-<p align="center">
-  <img src="./assets/landing.png" width="100%" />
-</p>
+<img src="https://github.com/heyNag/heyNag/raw/main/assets/landing.png" />
