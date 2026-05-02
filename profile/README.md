@@ -1,22 +1,17 @@
 <p align="center">
-  <img src="./assets/hero.png" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="./assets/values.png" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="./assets/build-cli.png" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="./assets/tech-footer.png" width="100%"/>
+  <img src="./assets/landing.png" alt="nag-codes landing" width="100%" />
 </p>
 
 ---
 
 <p align="center">
-  Building simple, intelligent developer tools.<br/>
-  Maintained by <a href="https://github.com/heyNag">@heyNag</a>
+  <a href="https://github.com/heyNag">👤 @heyNag</a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/nag-codes?tab=repositories">📦 Repositories</a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/nag-codes">🏢 nag-codes</a>
+</p>
+
+<p align="center">
+  Building simple, intelligent developer tools.
 </p>
