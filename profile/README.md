@@ -9,7 +9,3 @@
   &nbsp;•&nbsp;
   <a href="https://github.com/nag-codes?tab=repositories">📦 Repositories</a>
 </p>
-
-<p align="center">
-  A space for building and refining ideas
-</p>
